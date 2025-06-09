@@ -1,0 +1,32 @@
+<div class="container mt-4">
+  <h3 class="mb-3">Submit New Alert</h3>
+
+  <form [formGroup]="alertForm" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="citizenId" class="form-label">Citizen ID</label>
+      <input type="number" class="form-control" id="citizenId" formControlName="citizenId">
+    </div>
+
+    <div class="mb-3">
+      <label for="message" class="form-label">Alert Message</label>
+      <textarea class="form-control" id="message" rows="3" formControlName="message"></textarea>
+    </div>
+
+    <div class="mb-3">
+      <label for="disasterType" class="form-label">Disaster Type</label>
+      <input type="text" class="form-control" id="disasterType" formControlName="disasterType">
+    </div>
+
+    <div class="mb-3">
+      <label for="region" class="form-label">Region</label>
+      <input type="text" class="form-control" id="region" formControlName="region">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Alert</button>
+  </form>
+
+  <div class="mt-3">
+    <div *ngIf="successMessage" class="alert alert-success">{{ successMessage }}</div>
+    <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+  </div>
+</div>

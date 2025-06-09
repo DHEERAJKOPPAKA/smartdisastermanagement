@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New Project\\SmartDisaster.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\controllers\\citizencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:controllers\\citizencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\services\\userjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:services\\userjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\services\\adminjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:services\\adminjwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\controllers\\disasterintimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:controllers\\disasterintimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\disasterrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\disasterrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\riskassessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\riskassessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\dtos\\citizendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:dtos\\citizendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\dtos\\alertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:dtos\\alertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\dtos\\userloginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:dtos\\userloginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\migrations\\20250522173041_disastermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:migrations\\20250522173041_disastermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\smartdisaster.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:smartdisaster.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\disasterintimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\disasterintimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|e:\\new project\\smartdisaster.api\\models\\evacuationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA089FE8-9CA6-4739-B3B7-03E6FDEB168D}|SmartDisaster.API.csproj|solutionrelative:models\\evacuationplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dheeraj\\C#\\SmartDisaster.API\\Migrations\\20250522164846_disastermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "jwtsettings.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\jwtsettings.cs",
+              "RelativeDocumentMoniker": "jwtsettings.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\jwtsettings.cs",
+              "RelativeToolTip": "jwtsettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:41:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userjwttoken.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Services\\userjwttoken.cs",
+              "RelativeDocumentMoniker": "Services\\userjwttoken.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Services\\userjwttoken.cs",
+              "RelativeToolTip": "Services\\userjwttoken.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:43:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:28:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisasterIntimationController.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Controllers\\DisasterIntimationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DisasterIntimationController.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Controllers\\DisasterIntimationController.cs",
+              "RelativeToolTip": "Controllers\\DisasterIntimationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:59:29.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminjwttoken.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Services\\adminjwttoken.cs",
+              "RelativeDocumentMoniker": "Services\\adminjwttoken.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Services\\adminjwttoken.cs",
+              "RelativeToolTip": "Services\\adminjwttoken.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvzMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:46:59.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T07:21:19.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:34:02.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginRequest.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:00:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitizenController.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Controllers\\CitizenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitizenController.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Controllers\\CitizenController.cs",
+              "RelativeToolTip": "Controllers\\CitizenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:26:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlertController.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Controllers\\AlertController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlertController.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Controllers\\AlertController.cs*",
+              "RelativeToolTip": "Controllers\\AlertController.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:00:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:20:15.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DisasterRecord.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\DisasterRecord.cs",
+              "RelativeDocumentMoniker": "Models\\DisasterRecord.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\DisasterRecord.cs",
+              "RelativeToolTip": "Models\\DisasterRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:18:54.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Alert.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\Alert.cs",
+              "RelativeDocumentMoniker": "Models\\Alert.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\Alert.cs",
+              "RelativeToolTip": "Models\\Alert.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:41:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLoginResult.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\DTOs\\UserLoginResult.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginResult.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\DTOs\\UserLoginResult.cs",
+              "RelativeToolTip": "DTOs\\UserLoginResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:49:20.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "Models\\Citizen.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\Citizen.cs",
+              "RelativeToolTip": "Models\\Citizen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:18:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RiskAssessment.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\RiskAssessment.cs",
+              "RelativeDocumentMoniker": "Models\\RiskAssessment.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\RiskAssessment.cs",
+              "RelativeToolTip": "Models\\RiskAssessment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:42:30.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityLog.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:43:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:19:57.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "citizendto.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\DTOs\\citizendto.cs",
+              "RelativeDocumentMoniker": "DTOs\\citizendto.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\DTOs\\citizendto.cs",
+              "RelativeToolTip": "DTOs\\citizendto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:34:53.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "alertdto.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\DTOs\\alertdto.cs",
+              "RelativeDocumentMoniker": "DTOs\\alertdto.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\DTOs\\alertdto.cs",
+              "RelativeToolTip": "DTOs\\alertdto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:13:34.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAQwP8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:36:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250522173041_disastermanagement.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Migrations\\20250522173041_disastermanagement.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250522173041_disastermanagement.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Migrations\\20250522173041_disastermanagement.cs",
+              "RelativeToolTip": "Migrations\\20250522173041_disastermanagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:30:42.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SmartDisaster.API.csproj",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\SmartDisaster.API.csproj",
+              "RelativeDocumentMoniker": "SmartDisaster.API.csproj",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\SmartDisaster.API.csproj",
+              "RelativeToolTip": "SmartDisaster.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T07:19:42.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EvacuationPlan.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\EvacuationPlan.cs",
+              "RelativeDocumentMoniker": "Models\\EvacuationPlan.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\EvacuationPlan.cs",
+              "RelativeToolTip": "Models\\EvacuationPlan.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:43:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DisasterIntimation.cs",
+              "DocumentMoniker": "E:\\New Project\\SmartDisaster.API\\Models\\DisasterIntimation.cs",
+              "RelativeDocumentMoniker": "Models\\DisasterIntimation.cs",
+              "ToolTip": "E:\\New Project\\SmartDisaster.API\\Models\\DisasterIntimation.cs",
+              "RelativeToolTip": "Models\\DisasterIntimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:41:05.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250522164846_disastermanagement.cs",
+              "DocumentMoniker": "D:\\Dheeraj\\C#\\SmartDisaster.API\\Migrations\\20250522164846_disastermanagement.cs",
+              "ToolTip": "D:\\Dheeraj\\C#\\SmartDisaster.API\\Migrations\\20250522164846_disastermanagement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:48:46.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+<div class="container mt-4">
+  <h2>Update User</h2>
+<button class="btn btn-secondary mb-3" [routerLink]="['/admindashboard']">
+  ← Back to Dashboard
+</button>
+
+  @if (loading) {
+    <div class="alert alert-info">Loading...</div>
+  }
+
+  @if (successMessage) {
+    <div class="alert alert-success">{{ successMessage }}</div>
+  }
+
+  @if (errorMessage) {
+    <div class="alert alert-danger">{{ errorMessage }}</div>
+  }
+
+  <form (ngSubmit)="updateUser()" #userForm="ngForm" novalidate>
+    <div class="mb-3">
+      <label for="fullName" class="form-label">Full Name</label>
+      <input
+        type="text"
+        id="fullName"
+        name="fullName"
+        class="form-control"
+        [(ngModel)]="user.fullName"
+        required
+        minlength="3"
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="email" class="form-label">Email</label>
+      <input
+        type="email"
+        id="email"
+        name="email"
+        class="form-control"
+        [(ngModel)]="user.email"
+        required
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="password" class="form-label">Password</label>
+      <input
+        type="password"
+        id="password"
+        name="password"
+        class="form-control"
+        [(ngModel)]="user.password"
+        required
+        minlength="6"
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="region" class="form-label">Region</label>
+      <input
+        type="text"
+        id="region"
+        name="region"
+        class="form-control"
+        [(ngModel)]="user.region"
+        required
+      />
+    </div>
+
+    <button
+      type="submit"
+      class="btn btn-primary"
+      [disabled]="userForm.invalid || loading"
+    >
+      Update User
+    </button>
+  </form>
+</div>

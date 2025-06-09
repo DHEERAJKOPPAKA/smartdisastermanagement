@@ -1,0 +1,33 @@
+<div class="container mt-4">
+  <h3>Manage Alerts</h3>
+
+  <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+  <div *ngIf="successMessage" class="alert alert-success">{{ successMessage }}</div>
+
+  <table class="table table-bordered mt-3" *ngIf="alerts.length > 0">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Message</th>
+        <th>Disaster Type</th>
+        <th>Region</th>
+        <th>Time</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let alert of alerts">
+        <td>{{ alert.id }}</td>
+        <td>{{ alert.message }}</td>
+        <td>{{ alert.disasterType }}</td>
+        <td>{{ alert.region }}</td>
+        <td>{{ alert.alertTime | date: 'short' }}</td>
+        <td>
+          <button class="btn btn-danger btn-sm" (click)="deleteAlert(alert.id!)">Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div *ngIf="alerts.length === 0" class="text-muted">No alerts found.</div>
+</div>

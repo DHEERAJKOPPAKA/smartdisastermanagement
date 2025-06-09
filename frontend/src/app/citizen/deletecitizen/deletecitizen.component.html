@@ -1,0 +1,47 @@
+<div class="container mt-4">
+  <h2 class="mb-4">User List</h2>
+<button class="btn btn-secondary mb-3" [routerLink]="['/admindashboard']">
+  ← Back to Dashboard
+</button>
+
+  @if (loading) {
+    <div class="alert alert-info">Loading...</div>
+  }
+
+  @if (successMessage) {
+    <div class="alert alert-success">{{ successMessage }}</div>
+  }
+
+  @if (errorMessage) {
+    <div class="alert alert-danger">{{ errorMessage }}</div>
+  }
+
+  @if (!loading && users.length > 0) {
+    <table class="table table-bordered table-striped">
+      <thead class="table-dark">
+        <tr>
+          <th>ID</th>
+          <th>Full Name</th>
+          <th>Email</th>
+          <th>Region</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (user of users; track user.id) {
+          <tr>
+            <td>{{ user.id }}</td>
+            <td>{{ user.fullName }}</td>
+            <td>{{ user.email }}</td>
+            <td>{{ user.region }}</td>
+            <td>
+              <button class="btn btn-danger btn-sm" (click)="deleteUser(user.id)">Delete</button>
+            </td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  } @else if (!loading) {
+    <div class="alert alert-warning">No users found.</div>
+  }
+</div>

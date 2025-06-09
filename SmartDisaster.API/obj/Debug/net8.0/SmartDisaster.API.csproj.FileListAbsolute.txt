@@ -1,0 +1,1038 @@
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\appsettings.json
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.staticwebassets.endpoints.json
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.exe
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.deps.json
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.runtimeconfig.json
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.pdb
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Humanizer.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.AssemblyReference.cache
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfoInputs.cache
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfo.cs
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.CoreCompileInputs.cache
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\scopedcss\bundle\SmartDisaster.API.styles.css
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartDisaster.API.props
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartDisaster.API.props
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartDisaster.API.props
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDis.22C4FE24.Up2Date
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.dll
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\refint\SmartDisaster.API.dll
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.pdb
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.genruntimeconfig.cache
+D:\Dheeraj\C#\SmartDisaster.API\obj\Debug\net8.0\ref\SmartDisaster.API.dll
+D:\Dheeraj\C#\SmartDisaster.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\appsettings.json
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.staticwebassets.endpoints.json
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.exe
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.deps.json
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.runtimeconfig.json
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.pdb
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Humanizer.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Backup\working fine\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.AssemblyReference.cache
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfoInputs.cache
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfo.cs
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.CoreCompileInputs.cache
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\scopedcss\bundle\SmartDisaster.API.styles.css
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartDisaster.API.props
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartDisaster.API.props
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartDisaster.API.props
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDis.22C4FE24.Up2Date
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.dll
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\refint\SmartDisaster.API.dll
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.pdb
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.genruntimeconfig.cache
+D:\Backup\working fine\SmartDisaster.API\obj\Debug\net8.0\ref\SmartDisaster.API.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\appsettings.json
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.staticwebassets.endpoints.json
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.exe
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.deps.json
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.runtimeconfig.json
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.pdb
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Humanizer.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Backup\Real Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.AssemblyReference.cache
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfoInputs.cache
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfo.cs
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.CoreCompileInputs.cache
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\scopedcss\bundle\SmartDisaster.API.styles.css
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartDisaster.API.props
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartDisaster.API.props
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartDisaster.API.props
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDis.22C4FE24.Up2Date
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.dll
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\refint\SmartDisaster.API.dll
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.pdb
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.genruntimeconfig.cache
+D:\Backup\Real Project\SmartDisaster.API\obj\Debug\net8.0\ref\SmartDisaster.API.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\appsettings.json
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.staticwebassets.endpoints.json
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.exe
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.deps.json
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.runtimeconfig.json
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.pdb
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Azure.Core.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Humanizer.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Backup\Backup Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.AssemblyReference.cache
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfoInputs.cache
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfo.cs
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.CoreCompileInputs.cache
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\scopedcss\bundle\SmartDisaster.API.styles.css
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartDisaster.API.props
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartDisaster.API.props
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartDisaster.API.props
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDis.22C4FE24.Up2Date
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.dll
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\refint\SmartDisaster.API.dll
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.pdb
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.genruntimeconfig.cache
+D:\Backup\Backup Project\SmartDisaster.API\obj\Debug\net8.0\ref\SmartDisaster.API.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\appsettings.Development.json
+E:\project\SmartDisaster.API\bin\Debug\net8.0\appsettings.json
+E:\project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.staticwebassets.endpoints.json
+E:\project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.exe
+E:\project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.deps.json
+E:\project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.runtimeconfig.json
+E:\project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.pdb
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Azure.Core.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Humanizer.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.AssemblyReference.cache
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfoInputs.cache
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfo.cs
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.CoreCompileInputs.cache
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cs
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cache
+E:\project\SmartDisaster.API\obj\Debug\net8.0\scopedcss\bundle\SmartDisaster.API.styles.css
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartDisaster.API.props
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartDisaster.API.props
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartDisaster.API.props
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDis.22C4FE24.Up2Date
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.dll
+E:\project\SmartDisaster.API\obj\Debug\net8.0\refint\SmartDisaster.API.dll
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.pdb
+E:\project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.genruntimeconfig.cache
+E:\project\SmartDisaster.API\obj\Debug\net8.0\ref\SmartDisaster.API.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\appsettings.Development.json
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\appsettings.json
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.staticwebassets.endpoints.json
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.exe
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.deps.json
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.runtimeconfig.json
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\SmartDisaster.API.pdb
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Azure.Core.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Humanizer.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.CodeDom.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\New Project\SmartDisaster.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.AssemblyReference.cache
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfoInputs.cache
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.AssemblyInfo.cs
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.csproj.CoreCompileInputs.cache
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cs
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.MvcApplicationPartsAssemblyInfo.cache
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\scopedcss\bundle\SmartDisaster.API.styles.css
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.SmartDisaster.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartDisaster.API.props
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartDisaster.API.props
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartDisaster.API.props
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDis.22C4FE24.Up2Date
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.dll
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\refint\SmartDisaster.API.dll
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.pdb
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\SmartDisaster.API.genruntimeconfig.cache
+E:\New Project\SmartDisaster.API\obj\Debug\net8.0\ref\SmartDisaster.API.dll

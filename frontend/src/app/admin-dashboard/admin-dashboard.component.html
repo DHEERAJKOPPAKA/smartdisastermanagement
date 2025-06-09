@@ -1,0 +1,178 @@
+<div class="d-flex" style="min-height: 100vh;">
+  <!-- Sidebar -->
+  <nav class="sidebar bg-dark text-white p-4" style="min-width: 250px;">
+    <h4 class="mb-4">Admin Menu</h4>
+    <ul class="nav flex-column">
+     
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/declarealert']">Add Alert</a>
+      </li>
+     
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/citizenlist']">Citizen List</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/citizenbyid', 1]">View Citizen by ID (Demo)</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/createnewcitizen']">Create New Citizen</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/updatecitizen', 1]">Update Citizen (Demo)</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/deletecitizen', 1]">Delete Citizen (Demo)</a>
+      </li>
+      <li class="nav-item mt-4">
+        <button class="btn btn-outline-light btn-sm w-100" (click)="logout()">
+          Logout
+        </button>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="flex-grow-1 d-flex flex-column">
+    <!-- Top Navbar -->
+    <nav class="navbar navbar-dark bg-primary">
+      <div class="container-fluid justify-content-between px-4">
+        <span class="navbar-brand">Admin Dashboard</span>
+        <div class="d-flex align-items-center text-white">
+          <span class="me-3">{{ currentAdmin?.fullName }}</span>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Dashboard Sections -->
+    <div class="container-fluid mt-4 px-4">
+      <!-- Overview Cards -->
+      <div class="row mb-4">
+        <div class="col-md-3">
+          <div class="card bg-primary text-white">
+            <div class="card-body">
+              <h5 class="card-title">Total Alerts</h5>
+              <h2 class="mb-0">{{ alerts.length }}</h2>
+              <small>Active Emergency Alerts</small>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card bg-success text-white">
+            <div class="card-body">
+              <h5 class="card-title">Risk Assessments</h5>
+              <h2 class="mb-0">{{ riskAssessments.length }}</h2>
+              <small>Current Assessments</small>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card bg-warning text-dark">
+            <div class="card-body">
+              <h5 class="card-title">High Risk Areas</h5>
+              <h2 class="mb-0">{{ getHighRiskCount() }}</h2>
+              <small>Regions Needing Attention</small>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card bg-info text-white">
+            <div class="card-body">
+              <h5 class="card-title">System Status</h5>
+              <h2 class="mb-0">Active</h2>
+              <small>All Systems Operational</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Alerts Overview -->
+      <section class="mb-5">
+        <div class="card">
+          <div class="card-header bg-danger text-white d-flex justify-content-between align-items-center">
+            <h5 class="mb-0">Active Emergency Alerts</h5>
+            <button class="btn btn-light btn-sm" [routerLink]="['/declarealert']">+ New Alert</button>
+          </div>
+          <div class="card-body">
+            <div *ngIf="alerts.length === 0" class="alert alert-secondary">No active alerts at this time</div>
+            <div *ngFor="let alert of alerts.slice(0, 3)" class="alert" [ngClass]="getAlertClass(alert.disasterType)">
+              <div class="d-flex justify-content-between align-items-start">
+                <div>
+                  <h5 class="alert-heading">{{ alert.disasterType }}</h5>
+                  <p class="mb-1">{{ alert.message }}</p>
+                  <small class="text-muted">Region: {{ alert.region }}</small>
+                </div>
+                <span class="badge bg-secondary">{{ alert.alertTime | date:'short' }}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Risk Overview -->
+      <section class="mb-5">
+        <div class="card">
+          <div class="card-header bg-primary text-white">
+            <h5 class="mb-0">Regional Risk Assessment Overview</h5>
+          </div>
+          <div class="card-body">
+            <div *ngIf="riskAssessments.length === 0" class="alert alert-secondary">No risk assessments available</div>
+            <div class="row">
+              <div *ngFor="let assessment of riskAssessments.slice(0, 3)" class="col-md-4 mb-3">
+                <div class="card h-100" [ngClass]="getRiskCardClass(assessment.riskScore)">
+                  <div class="card-body">
+                    <h5 class="card-title">{{ assessment.region }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ assessment.disasterType }}</h6>
+                    <div class="progress mb-2">
+                      <div class="progress-bar" role="progressbar"
+                           [style.width.%]="assessment.riskScore * 100"
+                           [ngClass]="getRiskProgressClass(assessment.riskScore)">
+                        {{ formatRiskScore(assessment.riskScore) }}%
+                      </div>
+                    </div>
+                    <p class="card-text">
+                      <strong>Risk Level:</strong> {{ getRiskLevel(assessment.riskScore) }}<br>
+                      <small class="text-muted">Last updated: {{ assessment.assessmentDate | date:'mediumDate' }}</small>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Quick Actions -->
+      <section class="mb-5">
+        <div class="card">
+          <div class="card-header bg-dark text-white">
+            <h5 class="mb-0">Quick Actions</h5>
+          </div>
+          <div class="card-body">
+            <div class="row g-3">
+              <div class="col-md-3">
+                <a [routerLink]="['/declarealert']" class="btn btn-outline-danger w-100">
+                  <i class="bi bi-bell"></i> Declare Alert
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a [routerLink]="['/citizenlist']" class="btn btn-outline-primary w-100">
+                  <i class="bi bi-people"></i> View Citizens
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a [routerLink]="['/createnewcitizen']" class="btn btn-outline-success w-100">
+                  <i class="bi bi-person-plus"></i> Add Citizen
+                </a>
+              </div>
+              <div class="col-md-3">
+                <button class="btn btn-outline-secondary w-100" (click)="logout()">
+                  <i class="bi bi-box-arrow-right"></i> Logout
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

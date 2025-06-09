@@ -1,0 +1,19 @@
+
+<div class="container mt-4">
+   <!-- Back Button -->
+          <button class="btn " (click)="goBack()">
+            Back
+          </button> 
+  <h2>Emergency Alerts</h2>
+  <div *ngIf="alerts.length === 0">No alerts found.</div>
+
+  <div class="card mb-3" *ngFor="let alert of alerts">
+    <div class="card-body">
+      <h5 class="card-title">{{ alert.disasterType }} in {{ alert.region }}</h5>
+      <p class="card-text">{{ alert.message }}</p>
+      <p class="card-text">
+        <small class="text-muted">Alert Time: {{ alert.alertTime | date:'medium' }}</small>
+      </p>
+    </div>
+  </div>
+</div>

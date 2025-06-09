@@ -1,0 +1,165 @@
+<div class="d-flex" style="min-height: 100vh;">
+  <!-- Sidebar -->
+  <nav class="sidebar bg-dark text-white p-4" style="min-width: 250px;">
+    <h4 class="mb-4">Citizen Menu</h4>
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link text-white" [routerLink]="['/emergency-alerts']">Emergency Alerts</a>
+      </li>
+   
+     
+      <li class="nav-item mt-4">
+        <button class="btn btn-outline-light btn-sm w-100" [routerLink]="['/userlogin']">
+          Logout
+        </button>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="flex-grow-1 d-flex flex-column">
+    <!-- Top Navbar -->
+    <nav class="navbar navbar-dark bg-primary">
+      <div class="container-fluid justify-content-between px-4">
+        <div class="d-flex align-items-center">
+        
+          <span class="navbar-brand mb-0 h1">Citizen Dashboard</span>
+        </div>
+       
+      </div>
+    </nav>
+
+    <!-- Dashboard Sections -->
+    <div class="container-fluid mt-4 px-4">
+      <!-- User Info Card -->
+      <div class="card mb-4">
+        <div class="card-body">
+          <div class="d-flex align-items-center">
+            <div class="flex-grow-1">
+              <h5 class="mb-1">Welcome, {{ currentUser?.fullName }}</h5>
+              <p class="text-muted mb-0">Region: {{ currentUser?.region }}</p>
+            </div>
+            <div class="text-end">
+              <span class="badge bg-success">Active Status</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Emergency Status -->
+      <div class="row mb-4">
+        <div class="col-md-6">
+          <div class="card h-100" [ngClass]="{'bg-danger text-white': alerts.length > 0, 'bg-success text-white': alerts.length === 0}">
+            <div class="card-body">
+              <h5 class="card-title">Emergency Status</h5>
+              <h2 class="display-4 mb-3">{{ alerts.length > 0 ? 'ALERT' : 'SAFE' }}</h2>
+              <p class="mb-0">{{ alerts.length > 0 ? 'Active alerts in your region' : 'No active alerts in your region' }}</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h5 class="card-title">Safety Tips</h5>
+              <ul class="list-unstyled mb-0">
+                <li class="mb-2"><i class="bi bi-check-circle text-success me-2"></i> Keep emergency contacts updated</li>
+                <li class="mb-2"><i class="bi bi-check-circle text-success me-2"></i> Have an evacuation plan ready</li>
+                <li class="mb-2"><i class="bi bi-check-circle text-success me-2"></i> Store emergency supplies</li>
+                <li><i class="bi bi-check-circle text-success me-2"></i> Stay informed through official channels</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Emergency Alerts -->
+      <section class="mb-4">
+        <div class="card">
+          <div class="card-header bg-danger text-white">
+            <h5 class="mb-0">Emergency Alerts for Your Region</h5>
+          </div>
+          <div class="card-body">
+            <div *ngIf="alerts.length === 0" class="alert alert-success">
+              <i class="bi bi-check-circle me-2"></i> No active alerts for your region at this time
+            </div>
+            <div *ngFor="let alert of alerts" class="alert alert-danger mb-3">
+              <div class="d-flex justify-content-between align-items-start">
+                <div>
+                  <h5 class="alert-heading">{{ alert.disasterType }}</h5>
+                  <p class="mb-1">{{ alert.message }}</p>
+                  <small class="text-muted">Region: {{ alert.region }}</small>
+                </div>
+                <span class="badge bg-danger">{{ alert.alertTime | date:'short' }}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Risk Assessment -->
+      <section class="mb-4">
+        <div class="card">
+          <div class="card-header bg-primary text-white">
+            <h5 class="mb-0">Risk Assessment for Your Area</h5>
+          </div>
+          <div class="card-body">
+            <div *ngIf="riskAssessments.length === 0" class="alert alert-info">No risk assessments available for your region</div>
+            <div class="row">
+              <div *ngFor="let assessment of riskAssessments" class="col-md-4 mb-3">
+                <div class="card h-100" [ngClass]="{'border-danger': assessment.riskScore >= 0.7, 'border-warning': assessment.riskScore >= 0.4 && assessment.riskScore < 0.7, 'border-success': assessment.riskScore < 0.4}">
+                  <div class="card-body">
+                    <h5 class="card-title">{{ assessment.disasterType }}</h5>
+                    <div class="progress mb-2">
+                      <div class="progress-bar" role="progressbar"
+                           [style.width.%]="assessment.riskScore * 100"
+                           [ngClass]="{
+                             'bg-danger': assessment.riskScore >= 0.7,
+                             'bg-warning': assessment.riskScore >= 0.4 && assessment.riskScore < 0.7,
+                             'bg-success': assessment.riskScore < 0.4
+                           }">
+                        {{ (assessment.riskScore * 100).toFixed(1) }}%
+                      </div>
+                    </div>
+                    <p class="mb-2">Risk Level: <strong>{{ getRiskLevel(assessment.riskScore) }}</strong></p>
+                    <small class="text-muted">Last updated: {{ assessment.assessmentDate | date:'mediumDate' }}</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Emergency Guidelines -->
+      <section class="mb-4">
+        <div class="card">
+          <div class="card-header bg-info text-white">
+            <h5 class="mb-0">Emergency Guidelines</h5>
+          </div>
+          <div class="card-body">
+            <div class="row">
+              <div class="col-md-6">
+                <h6 class="mb-3">During an Emergency:</h6>
+                <ul class="list-unstyled">
+                  <li class="mb-2"><i class="bi bi-exclamation-triangle text-warning me-2"></i> Stay calm and follow official instructions</li>
+                  <li class="mb-2"><i class="bi bi-telephone text-primary me-2"></i> Keep emergency numbers handy</li>
+                  <li class="mb-2"><i class="bi bi-bandaid text-danger me-2"></i> Have a first-aid kit ready</li>
+                  <li><i class="bi bi-battery-full text-success me-2"></i> Keep mobile devices charged</li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <h6 class="mb-3">Emergency Contacts:</h6>
+                <ul class="list-unstyled">
+                  <li class="mb-2"><i class="bi bi-truck text-danger me-2"></i> Emergency Services: 112</li>
+                  <li class="mb-2"><i class="bi bi-hospital text-primary me-2"></i> Local Hospital: 108</li>
+                  <li class="mb-2"><i class="bi bi-fire text-warning me-2"></i> Fire Department: 101</li>
+                  <li><i class="bi bi-shield-check text-info me-2"></i> Police: 100</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>

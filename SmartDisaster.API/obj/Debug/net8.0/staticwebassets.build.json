@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bSR2vUwNyIAF35TV22BLhPsvxFWx/RdLO30SVzwq6NI=",
+  "Source": "SmartDisaster.API",
+  "BasePath": "_content/SmartDisaster.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
